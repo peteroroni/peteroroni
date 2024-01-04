@@ -1,5 +1,10 @@
 - 👋 Hello, my name is Peter Orony
 - 👀 I’m interested in Mobile and Wed Design, Web Development, Mobile app Development
+    ▪ Proficient in Figma 
+    ▪ HTML and CSS
+    ▪ Flutter and Firebase
+    ▪ Node.js
+    ▪▪
 - 🌱 I’m currently learning ReactJS
 - 📫
 
